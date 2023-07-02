@@ -1,0 +1,12 @@
+{
+  "name": "Emprende-full-stack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "BimboSkills <cristiannivaalvarez@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {},
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
