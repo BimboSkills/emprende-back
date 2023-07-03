@@ -5,6 +5,10 @@
   "author": "BimboSkills <cristiannivaalvarez@gmail.com>",
   "license": "MIT",
   "private": false,
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js"
+  },
   "dependencies": {},
   "devDependencies": {
     "nodemon": "^2.0.22"
